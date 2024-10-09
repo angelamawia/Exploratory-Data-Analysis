@@ -37,6 +37,9 @@ The dataset used in this project is `malaria_cases.csv` and contains the followi
    ```bash
    git clone https://github.com/yourusername/malaria-analysis-kenya.git
 
+## Project Background
+This analysis was part of a data science hackathon organized by [University Name]. The hackathon aimed to solve real-world problems using data analytics. Our team's focus was on analyzing malaria cases in Kenya to gain insights into patterns and trends that could inform better health policies and interventions.
+
 ## Future Work
 - **Predictive Modeling**: Develop a model to predict future malaria cases.
 - **Climate Data Integration**: Analyze how climate factors affect malaria transmission.
